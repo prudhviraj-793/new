@@ -1,6 +1,15 @@
-.hello{
-    color: green;
+.center{
+    text-align: center;
 }
-.dude{
-    color: yellow;
+.div{
+    background-color:aqua;
+}
+.left{
+    text-align: left;
+}
+.bc{
+    background-color: burlywood;
+}
+#div2{
+    padding: 0.5rem 0 0.5rem 0;
 }
